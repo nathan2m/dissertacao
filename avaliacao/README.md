@@ -1,0 +1,1 @@
+Arquivos gerados e utilizados na avaliação e nos experimentos para a dissertação de mestrado.

@@ -1,0 +1,1 @@
+Arquivos com os dados do mapeamento utilizado na dissertação de mestrado.
